@@ -1,6 +1,5 @@
 package com.DataStruct.Enum;
 
-import sun.misc.VM;
 
 /**
  * ordinal是返回每个枚举类型的顺序

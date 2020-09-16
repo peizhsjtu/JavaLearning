@@ -1,6 +1,5 @@
 package com.dynamicproxy.test3;
 
-import sun.security.util.AuthResources_it;
 
 import java.lang.reflect.Proxy;
 
