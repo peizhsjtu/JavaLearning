@@ -1,4 +1,4 @@
-package com.java.lang;
+package com.java.lang.staticLearning;
 
 /**
  * 【Java】static执行顺序详解（什么情况下父类普通代码块会先运行？）:   https://twocups.cn/index.php/2020/01/22/16/
