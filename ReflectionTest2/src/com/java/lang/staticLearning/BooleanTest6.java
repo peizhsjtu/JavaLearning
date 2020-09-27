@@ -21,5 +21,11 @@ public class BooleanTest6 {
     public static void main(String[] args) {
         //System.out.println("kkk"instanceof String);
         new BooleanTest6();
+        System.out.println(Enum.valueOf(Student.class,"s1"));
+
     }
+}
+enum Student{
+    s1,s2;
+
 }

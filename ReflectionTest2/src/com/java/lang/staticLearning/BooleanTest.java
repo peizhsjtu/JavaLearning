@@ -1,5 +1,7 @@
 package com.java.lang.staticLearning;
 
+import java.util.Objects;
+
 /**
  * 如果静态字段new了一个对象，则先执行对象的构造函数，再执行静态块
  */
