@@ -1,11 +1,13 @@
 package com.java.lang.staticLearning;
 
+import java.util.HashMap;
 import java.util.Objects;
 
 /**
  * 如果静态字段new了一个对象，则先执行对象的构造函数，再执行静态块
  */
 public class BooleanTest {
+
     public final boolean value;
     public static final BooleanTest TRUE = new BooleanTest("true");
     {
@@ -25,5 +27,6 @@ public class BooleanTest {
     public static void main(String[] args) {
         //System.out.println("kkk"instanceof String);
         System.out.println(BooleanTest.TRUE);
+
     }
 }

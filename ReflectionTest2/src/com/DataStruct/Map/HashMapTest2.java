@@ -22,6 +22,5 @@ public class HashMapTest2 {
         map.put("b","zhangsan");
         System.out.println(map);
 
-
     }
 }

@@ -1,5 +1,6 @@
 package com.java.lang.Throwable;
 
+import java.util.AbstractMap;
 import java.util.Objects;
 
 /**
@@ -10,5 +11,7 @@ public class ThrowableTest1 {
         System.out.println(Objects.equals("lihua","lihua"));
         Object a = "abc";
         System.out.println(a.toString()+" : " + a.equals("abc"));
+        String c = "kkk";
+        String b = "hhhh";
     }
 }
