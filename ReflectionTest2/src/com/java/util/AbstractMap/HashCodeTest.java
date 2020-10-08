@@ -9,11 +9,6 @@ public class HashCodeTest {
         Set<Map.Entry<String,String>> entrySet =  map.entrySet();
         for(Map.Entry<String,String> entry:entrySet){
             System.out.println(entry.hashCode());
-            AbstractSet abs;
-            AbstractMap abd;
-            AbstractList add
-                    ArrayList ar;
-            LinkedList
         }
 
     }
