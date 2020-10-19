@@ -1,9 +1,6 @@
 package com.java.util.Random;
 
-import java.util.ArrayList;
-import java.util.Random;
-import java.util.Timer;
-import java.util.UUID;
+import java.util.*;
 
 public class RandomTest {
     public static void main(String[] args) {
