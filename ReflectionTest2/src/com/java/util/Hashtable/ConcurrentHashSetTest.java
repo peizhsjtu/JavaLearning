@@ -41,7 +41,5 @@ public class ConcurrentHashSetTest {
 
         //主线程休眠1秒钟，以便t1、t2两个线程将firstHashMap填装完毕。
         Thread.currentThread().sleep(1000);
-
-
     }
 }
