@@ -1,4 +1,4 @@
-package com.java.util.concurrent;
+package com.java.util.concurrent.futureTask;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
